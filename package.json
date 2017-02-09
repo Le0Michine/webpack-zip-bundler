@@ -1,10 +1,10 @@
 {
   "name": "webpack-zip-bundler",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Puts emitted assets into a zip archive",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Le0Michine/webpack-zip-bundler"
+    "url": "https://github.com/Le0Michine/webpack-zip-bundler.git"
   },
   "keywords": [
     "zip",

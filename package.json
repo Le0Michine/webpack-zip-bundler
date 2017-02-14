@@ -1,6 +1,6 @@
 {
   "name": "webpack-zip-bundler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Puts emitted assets into a zip archive",
   "repository": {
     "type": "git",
@@ -8,11 +8,14 @@
   },
   "keywords": [
     "zip",
+    "jszip",
     "webpack",
+    "plugin",
+    "compression",
     "chrome extension"
   ],
   "author": "Lev Mishin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jszip": "^3.1.3"
   }
